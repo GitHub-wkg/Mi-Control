@@ -1,29 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:gravity="center_vertical"
-    xmlns:tools="http://schemas.android.com/tools"
-    tools:background="#80000000"
-    xmlns:app="http://schemas.android.com/apk/res-auto">
+    android:paddingStart="@dimen/_10sdp"
+    android:paddingEnd="@dimen/_10sdp"
+    tools:background="#80000000">
+
     <LinearLayout
-        android:layout_height="wrap_content"
         android:id="@+id/control_center"
-        android:gravity="center_vertical"
         android:layout_width="match_parent"
-        android:weightSum="5"
-       >
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:weightSum="8">
+
         <LinearLayout
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_weight="3">
-            <TextView
+            android:layout_weight="6">
+
+            <me.grantland.widget.AutofitTextView
                 android:id="@+id/txt_control_center"
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:fontFamily="@font/font"
+                android:maxLines="1"
+                android:singleLine="true"
                 android:text="@string/control_center"
                 android:textColor="@color/white"
-                android:textSize="@dimen/_25sdp" />
+                android:textSize="@dimen/_24sdp"
+                app:minTextSize="@dimen/_20sdp" />
         </LinearLayout>
 
         <RelativeLayout
@@ -46,7 +54,6 @@
                 android:layout_height="@dimen/_15sdp"
                 android:layout_alignParentEnd="true"
                 android:layout_centerVertical="true"
-                android:layout_marginEnd="@dimen/_10sdp"
                 app:srcCompat="@drawable/ic_edit" />
         </RelativeLayout>
     </LinearLayout>

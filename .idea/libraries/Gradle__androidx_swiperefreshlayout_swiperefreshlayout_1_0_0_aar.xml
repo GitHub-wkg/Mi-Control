@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.swiperefreshlayout:swiperefreshlayout:1.0.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/ce807d01df1cba9a9fc1fea6b5a72958/swiperefreshlayout-1.0.0/annotations.zip!/" />
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/1da53d363eddb240a16bf10524495597/swiperefreshlayout-1.0.0/annotations.zip!/" />
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/f89c868da47ca036f6ab7b7f9e6dc8e8/swiperefreshlayout-1.0.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/ce807d01df1cba9a9fc1fea6b5a72958/swiperefreshlayout-1.0.0/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/ce807d01df1cba9a9fc1fea6b5a72958/swiperefreshlayout-1.0.0/res" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/ce807d01df1cba9a9fc1fea6b5a72958/swiperefreshlayout-1.0.0/AndroidManifest.xml" />
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/1da53d363eddb240a16bf10524495597/swiperefreshlayout-1.0.0/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/1da53d363eddb240a16bf10524495597/swiperefreshlayout-1.0.0/res" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/1da53d363eddb240a16bf10524495597/swiperefreshlayout-1.0.0/AndroidManifest.xml" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/f89c868da47ca036f6ab7b7f9e6dc8e8/swiperefreshlayout-1.0.0/res" />
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/f89c868da47ca036f6ab7b7f9e6dc8e8/swiperefreshlayout-1.0.0/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/f89c868da47ca036f6ab7b7f9e6dc8e8/swiperefreshlayout-1.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/modules-2/files-2.1/androidx.swiperefreshlayout/swiperefreshlayout/1.0.0/ab92d86c004eb1d48e45f311b02ca53d6c86b607/swiperefreshlayout-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

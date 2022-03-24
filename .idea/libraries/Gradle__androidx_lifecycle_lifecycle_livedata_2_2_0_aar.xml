@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.lifecycle:lifecycle-livedata:2.2.0@aar">
+    <CLASSES>
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/87411dec549cd3ba218039fcea286bf1/lifecycle-livedata-2.2.0/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/87411dec549cd3ba218039fcea286bf1/lifecycle-livedata-2.2.0/res" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/87411dec549cd3ba218039fcea286bf1/lifecycle-livedata-2.2.0/AndroidManifest.xml" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/611c94403c96d949927517e7ce2f3b73/lifecycle-livedata-2.2.0/res" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/611c94403c96d949927517e7ce2f3b73/lifecycle-livedata-2.2.0/AndroidManifest.xml" />
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/611c94403c96d949927517e7ce2f3b73/lifecycle-livedata-2.2.0/jars/classes.jar!/" />
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/7d583e73f22a9e3b37ea930662199dcb/lifecycle-livedata-2.2.0/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/7d583e73f22a9e3b37ea930662199dcb/lifecycle-livedata-2.2.0/res" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/7d583e73f22a9e3b37ea930662199dcb/lifecycle-livedata-2.2.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-livedata/2.2.0/9849dd6833f7e999169e4f9d48949cc92bf58b50/lifecycle-livedata-2.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

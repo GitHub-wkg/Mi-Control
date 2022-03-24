@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.core:core:1.6.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/bc48c20f54f5628b8c3be8c340ff8358/core-1.6.0/annotations.zip!/" />
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/ce1892dd62a8415af6088f13cfb8bbb2/core-1.6.0/annotations.zip!/" />
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/23ced8dc1bc4e1e85eae7c3f9eaaeb2c/core-1.6.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/bc48c20f54f5628b8c3be8c340ff8358/core-1.6.0/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/bc48c20f54f5628b8c3be8c340ff8358/core-1.6.0/res" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/bc48c20f54f5628b8c3be8c340ff8358/core-1.6.0/AndroidManifest.xml" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/ce1892dd62a8415af6088f13cfb8bbb2/core-1.6.0/res" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/ce1892dd62a8415af6088f13cfb8bbb2/core-1.6.0/AndroidManifest.xml" />
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/ce1892dd62a8415af6088f13cfb8bbb2/core-1.6.0/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/23ced8dc1bc4e1e85eae7c3f9eaaeb2c/core-1.6.0/res" />
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/23ced8dc1bc4e1e85eae7c3f9eaaeb2c/core-1.6.0/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/23ced8dc1bc4e1e85eae7c3f9eaaeb2c/core-1.6.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/modules-2/files-2.1/androidx.core/core/1.6.0/7e14a47159a1cd7e5744d0fe465fbc97843d984a/core-1.6.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

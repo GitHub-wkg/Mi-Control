@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/ic_dark_theme">
+    <target
+        android:name="out"
+        android:animation="@animator/ic_cc_qs_night_mode_on__1" />
+    <target
+        android:name="outgroup"
+        android:animation="@animator/ic_cc_qs_night_mode_on__2" />
+    <target
+        android:name="mask_1"
+        android:animation="@animator/ic_cc_qs_night_mode_on__3" />
+    <target
+        android:name="innergroup"
+        android:animation="@animator/ic_cc_qs_night_mode_on__4" />
+    <target
+        android:name="mask"
+        android:animation="@animator/ic_cc_qs_night_mode_on__5" />
+</animated-vector>

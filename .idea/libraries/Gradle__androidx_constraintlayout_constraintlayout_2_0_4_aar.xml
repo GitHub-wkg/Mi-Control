@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.constraintlayout:constraintlayout:2.0.4@aar">
+    <CLASSES>
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/1908a33ace5e8e3421664255567549dd/constraintlayout-2.0.4/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/1908a33ace5e8e3421664255567549dd/constraintlayout-2.0.4/res" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/1908a33ace5e8e3421664255567549dd/constraintlayout-2.0.4/AndroidManifest.xml" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/0a7a05aa2f883556dfb5207412eb4d51/constraintlayout-2.0.4/res" />
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/0a7a05aa2f883556dfb5207412eb4d51/constraintlayout-2.0.4/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/0a7a05aa2f883556dfb5207412eb4d51/constraintlayout-2.0.4/AndroidManifest.xml" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/200e84e63052efee7c5533965ddbca5e/constraintlayout-2.0.4/AndroidManifest.xml" />
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/200e84e63052efee7c5533965ddbca5e/constraintlayout-2.0.4/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/200e84e63052efee7c5533965ddbca5e/constraintlayout-2.0.4/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

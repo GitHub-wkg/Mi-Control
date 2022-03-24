@@ -1,40 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="wrap_content"
+    android:layout_height="match_parent"
     android:orientation="vertical"
-
     tools:background="@color/black">
 
-    <LinearLayout
+    <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:weightSum="4">
+        android:layout_height="match_parent">
 
         <LinearLayout
-            android:id="@+id/layout_icon_mute"
+            android:id="@+id/layout_icon_data_saver"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_margin="@dimen/_7sdp"
-            android:layout_weight="1"
             android:gravity="center"
-            android:orientation="vertical">
+            android:orientation="vertical"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintWidth_percent="0.25">
 
-            <androidx.appcompat.widget.AppCompatImageView
-                android:id="@+id/ic_mute"
-                android:layout_width="@dimen/_40sdp"
-                android:layout_height="@dimen/_40sdp"
-                android:layout_gravity="center"
-                android:background="@drawable/item_background"
-                android:padding="@dimen/_10sdp"
-                app:srcCompat="@drawable/ic_mute" />
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:id="@+id/layout_data_saver"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
 
-            <TextView
-                android:id="@+id/txt_mute"
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:id="@+id/background_ic_data_saver"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:srcCompat="@drawable/ic_round" />
+
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:id="@+id/ic_data_saver"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:padding="@dimen/_14sdp"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:srcCompat="@drawable/ic_data_saver" />
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+            <com.ezstudio.controlcenter.customview.MyTextView
+                android:id="@+id/txt_data_saver"
                 android:layout_width="@dimen/_50sdp"
-                android:layout_height="@dimen/_14sdp"
+                android:layout_height="@dimen/_17sdp"
                 android:ellipsize="marquee"
                 android:focusable="true"
                 android:focusableInTouchMode="true"
@@ -42,34 +62,56 @@
                 android:marqueeRepeatLimit="marquee_forever"
                 android:scrollHorizontally="true"
                 android:singleLine="true"
-                android:text="@string/mute"
+                android:text="@string/data_saver"
                 android:textColor="@color/color_1AD1FF"
                 android:textSize="@dimen/_10sdp" />
 
         </LinearLayout>
 
         <LinearLayout
-            android:id="@+id/layout_icon_battery_saver"
+            android:id="@+id/layout_icon_screen_transmission"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_margin="@dimen/_7sdp"
-            android:layout_weight="1"
             android:gravity="center"
-            android:orientation="vertical">
+            android:orientation="vertical"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/layout_icon_data_saver"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintWidth_percent="0.25">
 
-            <androidx.appcompat.widget.AppCompatImageView
-                android:id="@+id/ic_battery_saver"
-                android:layout_width="@dimen/_40sdp"
-                android:layout_height="@dimen/_40sdp"
-                android:layout_gravity="center"
-                android:background="@drawable/item_background"
-                android:padding="@dimen/_10sdp"
-                app:srcCompat="@drawable/ic_battery" />
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:id="@+id/layout_screen_transmission"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
 
-            <TextView
-                android:id="@+id/txt_battery_saver"
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:id="@+id/background_ic_screen_transmission"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:srcCompat="@drawable/ic_round" />
+
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:id="@+id/ic_screen_transmission"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:padding="@dimen/_14sdp"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:srcCompat="@drawable/ic_screen_transmission" />
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+            <com.ezstudio.controlcenter.customview.MyTextView
+                android:id="@+id/txt_screen_transmission"
                 android:layout_width="@dimen/_50sdp"
-                android:layout_height="@dimen/_14sdp"
+                android:layout_height="@dimen/_17sdp"
                 android:ellipsize="marquee"
                 android:focusable="true"
                 android:focusableInTouchMode="true"
@@ -77,34 +119,56 @@
                 android:marqueeRepeatLimit="marquee_forever"
                 android:scrollHorizontally="true"
                 android:singleLine="true"
-                android:text="@string/battery_saver"
+                android:text="@string/screen_transmission"
                 android:textColor="@color/color_1AD1FF"
                 android:textSize="@dimen/_10sdp" />
 
         </LinearLayout>
 
         <LinearLayout
-            android:id="@+id/layout_icon_airplane_mode"
+            android:id="@+id/layout_fnc"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_margin="@dimen/_7sdp"
-            android:layout_weight="1"
             android:gravity="center"
-            android:orientation="vertical">
+            android:orientation="vertical"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/layout_icon_screen_transmission"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintWidth_percent="0.25">
 
-            <androidx.appcompat.widget.AppCompatImageView
-                android:id="@+id/ic_airplane_mode"
-                android:layout_width="@dimen/_40sdp"
-                android:layout_height="@dimen/_40sdp"
-                android:layout_gravity="center"
-                android:background="@drawable/item_background"
-                android:padding="@dimen/_10sdp"
-                app:srcCompat="@drawable/ic_flight" />
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:id="@+id/layout_icon_nfc"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
 
-            <TextView
-                android:id="@+id/txt_airplane_mode"
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:id="@+id/background_ic_nfc"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:srcCompat="@drawable/ic_round" />
+
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:id="@+id/ic_nfc"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:padding="@dimen/_14sdp"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:srcCompat="@drawable/ic_nfc" />
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+            <com.ezstudio.controlcenter.customview.MyTextView
+                android:id="@+id/txt_nfc"
                 android:layout_width="@dimen/_50sdp"
-                android:layout_height="@dimen/_14sdp"
+                android:layout_height="@dimen/_17sdp"
                 android:ellipsize="marquee"
                 android:focusable="true"
                 android:focusableInTouchMode="true"
@@ -112,34 +176,57 @@
                 android:marqueeRepeatLimit="marquee_forever"
                 android:scrollHorizontally="true"
                 android:singleLine="true"
-                android:text="@string/airplane_mode"
+                android:text="@string/nfc"
                 android:textColor="@color/color_1AD1FF"
                 android:textSize="@dimen/_10sdp" />
 
         </LinearLayout>
 
         <LinearLayout
-            android:id="@+id/layout_icon_do_not_disturb"
+            android:id="@+id/layout_location"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_margin="@dimen/_7sdp"
-            android:layout_weight="1"
             android:gravity="center"
-            android:orientation="vertical">
+            android:orientation="vertical"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/layout_fnc"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintWidth_percent="0.25">
 
-            <androidx.appcompat.widget.AppCompatImageView
-                android:id="@+id/ic_do_not_disturb"
-                android:layout_width="@dimen/_40sdp"
-                android:layout_height="@dimen/_40sdp"
-                android:layout_gravity="center"
-                android:background="@drawable/item_background"
-                android:padding="@dimen/_10sdp"
-                app:srcCompat="@drawable/ic_moon" />
 
-            <TextView
-                android:id="@+id/txt_do_not_disturb"
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:id="@+id/layout_icon_location"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:id="@+id/background_ic_location"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:srcCompat="@drawable/ic_round" />
+
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:id="@+id/ic_location"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:padding="@dimen/_14sdp"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:srcCompat="@drawable/ic_location" />
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+            <com.ezstudio.controlcenter.customview.MyTextView
+                android:id="@+id/txt_location"
                 android:layout_width="@dimen/_50sdp"
-                android:layout_height="@dimen/_14sdp"
+                android:layout_height="@dimen/_17sdp"
                 android:ellipsize="marquee"
                 android:focusable="true"
                 android:focusableInTouchMode="true"
@@ -147,10 +234,10 @@
                 android:marqueeRepeatLimit="marquee_forever"
                 android:scrollHorizontally="true"
                 android:singleLine="true"
-                android:text="@string/do_not_turb"
+                android:text="@string/location"
                 android:textColor="@color/color_1AD1FF"
                 android:textSize="@dimen/_10sdp" />
 
         </LinearLayout>
-    </LinearLayout>
-</LinearLayout>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

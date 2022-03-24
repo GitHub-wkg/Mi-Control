@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/ic_wifi_full">
+    <target android:name="line_1" android:animation="@animator/ic_cc_qs_wifi_on__1"/>
+    <target android:name="line_2" android:animation="@animator/ic_cc_qs_wifi_on__2"/>
+    <target android:name="line_3" android:animation="@animator/ic_cc_qs_wifi_on__3"/>
+    <target android:name="group_3" android:animation="@animator/ic_cc_qs_wifi_on__6"/>
+    <target android:name="group_2" android:animation="@animator/ic_cc_qs_wifi_on__7"/>
+    <target android:name="group_1" android:animation="@animator/ic_cc_qs_wifi_on__8"/>
+</animated-vector>

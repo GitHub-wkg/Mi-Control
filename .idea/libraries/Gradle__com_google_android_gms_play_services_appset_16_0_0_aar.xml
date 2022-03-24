@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-appset:16.0.0@aar">
+    <CLASSES>
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/c336397b9c2aded2ee11e51eadaa9a24/jetified-play-services-appset-16.0.0/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/c336397b9c2aded2ee11e51eadaa9a24/jetified-play-services-appset-16.0.0/res" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/c336397b9c2aded2ee11e51eadaa9a24/jetified-play-services-appset-16.0.0/AndroidManifest.xml" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/b75a0c9e6a938b84c00bea827e3fe6ac/jetified-play-services-appset-16.0.0/AndroidManifest.xml" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/b75a0c9e6a938b84c00bea827e3fe6ac/jetified-play-services-appset-16.0.0/res" />
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/b75a0c9e6a938b84c00bea827e3fe6ac/jetified-play-services-appset-16.0.0/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/5cc5d4a1a8abe2283c11a13116223e66/jetified-play-services-appset-16.0.0/AndroidManifest.xml" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/5cc5d4a1a8abe2283c11a13116223e66/jetified-play-services-appset-16.0.0/res" />
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/5cc5d4a1a8abe2283c11a13116223e66/jetified-play-services-appset-16.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/modules-2/files-2.1/com.google.android.gms/play-services-appset/16.0.0/8cd9011920c394af16ca93e693a993705090787a/play-services-appset-16.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

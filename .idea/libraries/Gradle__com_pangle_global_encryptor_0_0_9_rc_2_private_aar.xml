@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.pangle.global:encryptor:0.0.9-rc.2-private@aar">
+    <CLASSES>
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/0d767ef411b504a7d838501b8a37eb6e/jetified-encryptor-0.0.9-rc.2-private/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/0d767ef411b504a7d838501b8a37eb6e/jetified-encryptor-0.0.9-rc.2-private/res" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/0d767ef411b504a7d838501b8a37eb6e/jetified-encryptor-0.0.9-rc.2-private/AndroidManifest.xml" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/2cf08dfa8810cb01fef99a8164ad47d9/jetified-encryptor-0.0.9-rc.2-private/AndroidManifest.xml" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/2cf08dfa8810cb01fef99a8164ad47d9/jetified-encryptor-0.0.9-rc.2-private/res" />
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/2cf08dfa8810cb01fef99a8164ad47d9/jetified-encryptor-0.0.9-rc.2-private/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/c304ca4336ae2462c5c9b096b332ec87/jetified-encryptor-0.0.9-rc.2-private/AndroidManifest.xml" />
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/c304ca4336ae2462c5c9b096b332ec87/jetified-encryptor-0.0.9-rc.2-private/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/c304ca4336ae2462c5c9b096b332ec87/jetified-encryptor-0.0.9-rc.2-private/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

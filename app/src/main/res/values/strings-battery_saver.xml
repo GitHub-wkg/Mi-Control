@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_detail_switch_title_vi">Chế độ siêu tiết kiệm pin</string>
+    <string name="battery_detail_switch_title_vi_1">Chế độ pin</string>
+    <string name="battery_detail_switch_title_af">kiệm pin</string>
+    <string name="battery_detail_switch_title_ar">Батареяны үнөмдөгүч</string>
+    <string name="battery_detail_switch_title_as">ຕົວປະຢັດ​ແບັດເຕີຣີ</string>
+    <string name="battery_detail_switch_title_az">Economisirea bateriei</string>
+    <string name="battery_detail_switch_title_be">Режим энергосбережения</string>
+    <string name="battery_detail_switch_title_bg">Сдвинуть батарею вниз</string>
+    <string name="battery_detail_switch_title_bn">බැටරි සුරැකුම</string>
+    <string name="battery_detail_switch_title_bs">Šetrič batérie</string>
+    <string name="battery_detail_switch_title_ca">Varčevanje z energijo akumulatorja</string>
+    <string name="battery_detail_switch_title_da">Kursyesi i baterisë</string>
+    <string name="battery_detail_switch_title_de">Уштеда батерије</string>
+    <string name="battery_detail_switch_title_el">Batterisparläge</string>
+    <string name="battery_detail_switch_title_rAU">Quvvat tejash rejimi</string>
+    <string name="battery_detail_switch_title_rCA">Trình tiết kiệm pin</string>
+</resources>

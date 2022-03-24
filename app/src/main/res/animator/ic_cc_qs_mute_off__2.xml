@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <objectAnimator android:interpolator="@android:anim/accelerate_decelerate_interpolator" android:duration="123" android:valueFrom="0" android:valueTo="25" android:valueType="floatType" android:propertyName="rotation"/>
+    <objectAnimator android:interpolator="@android:anim/accelerate_decelerate_interpolator" android:duration="146" android:startOffset="123" android:valueFrom="25" android:valueTo="-20" android:valueType="floatType" android:propertyName="rotation"/>
+    <objectAnimator android:interpolator="@android:anim/accelerate_decelerate_interpolator" android:duration="145" android:startOffset="269" android:valueFrom="-20" android:valueTo="15" android:valueType="floatType" android:propertyName="rotation"/>
+    <objectAnimator android:interpolator="@android:anim/accelerate_decelerate_interpolator" android:duration="154" android:startOffset="414" android:valueFrom="15" android:valueTo="-10" android:valueType="floatType" android:propertyName="rotation"/>
+    <objectAnimator android:interpolator="@android:anim/accelerate_decelerate_interpolator" android:duration="151" android:startOffset="568" android:valueFrom="-10" android:valueTo="6" android:valueType="floatType" android:propertyName="rotation"/>
+    <objectAnimator android:interpolator="@android:anim/accelerate_decelerate_interpolator" android:duration="152" android:startOffset="719" android:valueFrom="6" android:valueTo="-3" android:valueType="floatType" android:propertyName="rotation"/>
+    <objectAnimator android:interpolator="@android:anim/accelerate_decelerate_interpolator" android:duration="153" android:startOffset="871" android:valueFrom="-3" android:valueTo="1" android:valueType="floatType" android:propertyName="rotation"/>
+    <objectAnimator android:interpolator="@android:anim/accelerate_decelerate_interpolator" android:duration="176" android:startOffset="1024" android:valueFrom="1" android:valueTo="0" android:valueType="floatType" android:propertyName="rotation"/>
+</set>

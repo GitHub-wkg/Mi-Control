@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cpv_custom">Özel</string>
+    <string name="cpv_default_title">Renk Seçin</string>
+    <string name="cpv_presets">Ön Ayarlar</string>
+    <string name="cpv_select">Seç</string>
+    <string name="cpv_transparency">Şeffaflık</string>
+</resources>

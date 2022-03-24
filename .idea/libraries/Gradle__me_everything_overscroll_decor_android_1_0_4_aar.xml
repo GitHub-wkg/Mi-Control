@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="Gradle: me.everything:overscroll-decor-android:1.0.4@aar">
+    <CLASSES>
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/9dfe1aa323c889b834e04bfce74667bc/jetified-overscroll-decor-android-1.0.4/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/9dfe1aa323c889b834e04bfce74667bc/jetified-overscroll-decor-android-1.0.4/res" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/9dfe1aa323c889b834e04bfce74667bc/jetified-overscroll-decor-android-1.0.4/AndroidManifest.xml" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/bd51ad9bd96b76f8781753860a7be36e/jetified-overscroll-decor-android-1.0.4/AndroidManifest.xml" />
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/bd51ad9bd96b76f8781753860a7be36e/jetified-overscroll-decor-android-1.0.4/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/bd51ad9bd96b76f8781753860a7be36e/jetified-overscroll-decor-android-1.0.4/res" />
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/0acc6bc215cf04ceb62db209a2cb227a/jetified-overscroll-decor-android-1.0.4/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/0acc6bc215cf04ceb62db209a2cb227a/jetified-overscroll-decor-android-1.0.4/res" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/0acc6bc215cf04ceb62db209a2cb227a/jetified-overscroll-decor-android-1.0.4/AndroidManifest.xml" />
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/38f5b46ce5b9c723d11c086a9490c41b/jetified-overscroll-decor-android-1.0.4/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/38f5b46ce5b9c723d11c086a9490c41b/jetified-overscroll-decor-android-1.0.4/AndroidManifest.xml" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/38f5b46ce5b9c723d11c086a9490c41b/jetified-overscroll-decor-android-1.0.4/res" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/9a47066115569e9259ae725d03963c1e/jetified-overscroll-decor-android-1.0.4/AndroidManifest.xml" />
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/9a47066115569e9259ae725d03963c1e/jetified-overscroll-decor-android-1.0.4/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/9a47066115569e9259ae725d03963c1e/jetified-overscroll-decor-android-1.0.4/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/modules-2/files-2.1/me.everything/overscroll-decor-android/1.0.4/69e91eaff6c75d3a2359f325bddfc10bfacfdc44/overscroll-decor-android-1.0.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/modules-2/files-2.1/me.everything/overscroll-decor-android/1.0.4/cdf310a5ee81b805214c1b92f50dfbc60fa5e8f7/overscroll-decor-android-1.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

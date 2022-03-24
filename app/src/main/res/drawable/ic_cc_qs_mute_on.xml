@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/ic_ring">
+    <target android:name="mask" android:animation="@animator/ic_cc_qs_mute_on__1"/>
+    <target android:name="line" android:animation="@animator/ic_cc_qs_mute_on__2"/>
+    <target android:name="group" android:animation="@animator/ic_cc_qs_mute_on__3"/>
+    <target android:name="group_1" android:animation="@animator/ic_cc_qs_mute_on__4"/>
+</animated-vector>

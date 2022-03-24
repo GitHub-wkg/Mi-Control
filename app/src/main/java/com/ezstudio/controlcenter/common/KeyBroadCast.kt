@@ -1,0 +1,8 @@
+package com.ezstudio.controlcenter.common
+
+object KeyBroadCast {
+    const val KEY_PULL_NOTIFICATION = "KEY_PULL_NOTIFICATION"
+    const val ACTION_NOTIFICATION_CLEAR_FOR_KEY = "ACTION_NOTIFICATION_CLEAR_FOR_KEY"
+    const val ACTION_NOTIFICATION_CLEAR_ALL = "ACTION_NOTIFICATION_CLEAR_ALL"
+    const val ACTION_RELOAD = "ACTION_RELOAD"
+}

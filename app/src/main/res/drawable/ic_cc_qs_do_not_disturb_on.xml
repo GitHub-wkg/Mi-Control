@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/ic_do_not_disturb">
+    <target
+        android:name="moon"
+        android:animation="@animator/ic_cc_qs_do_not_disturb_on__1" />
+    <target
+        android:name="group"
+        android:animation="@animator/ic_cc_qs_do_not_disturb_on__2" />
+</animated-vector>

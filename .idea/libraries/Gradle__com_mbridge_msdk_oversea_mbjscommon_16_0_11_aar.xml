@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mbridge.msdk.oversea:mbjscommon:16.0.11@aar">
+    <CLASSES>
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/dae8d5e1503fafe67ebfb79618eb1501/jetified-mbjscommon-16.0.11/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/dae8d5e1503fafe67ebfb79618eb1501/jetified-mbjscommon-16.0.11/res" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/dae8d5e1503fafe67ebfb79618eb1501/jetified-mbjscommon-16.0.11/AndroidManifest.xml" />
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/dae8d5e1503fafe67ebfb79618eb1501/jetified-mbjscommon-16.0.11/jars/libs/classes-2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-measurement-sdk:18.0.2@aar">
+    <CLASSES>
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/1a6228d60133918528be6c4c9645b528/jetified-play-services-measurement-sdk-18.0.2/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/1a6228d60133918528be6c4c9645b528/jetified-play-services-measurement-sdk-18.0.2/res" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/1a6228d60133918528be6c4c9645b528/jetified-play-services-measurement-sdk-18.0.2/AndroidManifest.xml" />
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/d9dddc46fb1f38e1ac94234c1a4376c1/jetified-play-services-measurement-sdk-18.0.2/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/d9dddc46fb1f38e1ac94234c1a4376c1/jetified-play-services-measurement-sdk-18.0.2/res" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/d9dddc46fb1f38e1ac94234c1a4376c1/jetified-play-services-measurement-sdk-18.0.2/AndroidManifest.xml" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/1de66a8e3d837e53e237c81eb509b2c7/jetified-play-services-measurement-sdk-18.0.2/res" />
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/1de66a8e3d837e53e237c81eb509b2c7/jetified-play-services-measurement-sdk-18.0.2/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/1de66a8e3d837e53e237c81eb509b2c7/jetified-play-services-measurement-sdk-18.0.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/modules-2/files-2.1/com.google.android.gms/play-services-measurement-sdk/18.0.2/27037f967d955876b3e29db6de6a24458c5b6080/play-services-measurement-sdk-18.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.applovin.mediation:bytedance-adapter:4.3.0.4.0@aar">
+    <CLASSES>
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/95f6e15fba9980ffcdaa238dc62c109d/jetified-bytedance-adapter-4.3.0.4.0/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/95f6e15fba9980ffcdaa238dc62c109d/jetified-bytedance-adapter-4.3.0.4.0/res" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/95f6e15fba9980ffcdaa238dc62c109d/jetified-bytedance-adapter-4.3.0.4.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/modules-2/files-2.1/com.applovin.mediation/bytedance-adapter/4.3.0.4.0/62be4b0d0404fb0b6e5d8373009cffb4c8a21634/bytedance-adapter-4.3.0.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "applicationId": "com.jaredrummler.android.colorpicker",
+  "variantType": "LIBRARY",
+  "elements": [
+    {
+      "outputType": {
+        "type": "AAPT_FRIENDLY_MERGED_MANIFESTS"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": -1,
+        "outputFile": "library-debug.aar",
+        "fullName": "debug",
+        "baseName": "debug",
+        "dirName": ""
+      },
+      "path": "AndroidManifest.xml",
+      "properties": {
+        "packageId": "com.jaredrummler.android.colorpicker",
+        "split": ""
+      }
+    }
+  ]
+}

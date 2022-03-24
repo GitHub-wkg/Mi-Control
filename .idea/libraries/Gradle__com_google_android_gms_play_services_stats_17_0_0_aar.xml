@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-stats:17.0.0@aar">
+    <CLASSES>
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/83979329b97939cebe66d7b55fff0c6a/jetified-play-services-stats-17.0.0/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/83979329b97939cebe66d7b55fff0c6a/jetified-play-services-stats-17.0.0/res" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/83979329b97939cebe66d7b55fff0c6a/jetified-play-services-stats-17.0.0/AndroidManifest.xml" />
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/58f218a6ac7a89dbc64af979f73a51d3/jetified-play-services-stats-17.0.0/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/58f218a6ac7a89dbc64af979f73a51d3/jetified-play-services-stats-17.0.0/res" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/58f218a6ac7a89dbc64af979f73a51d3/jetified-play-services-stats-17.0.0/AndroidManifest.xml" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/c04d50cf10f5996322d4529b2f73f382/jetified-play-services-stats-17.0.0/res" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/c04d50cf10f5996322d4529b2f73f382/jetified-play-services-stats-17.0.0/AndroidManifest.xml" />
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/c04d50cf10f5996322d4529b2f73f382/jetified-play-services-stats-17.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

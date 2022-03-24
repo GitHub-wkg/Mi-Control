@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.applovin.mediation:ironsource-adapter:7.2.1.1.0@aar">
+    <CLASSES>
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/35bba2ebadb122af1d8a04d9b89e9ede/jetified-ironsource-adapter-7.2.1.1.0/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/35bba2ebadb122af1d8a04d9b89e9ede/jetified-ironsource-adapter-7.2.1.1.0/res" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/35bba2ebadb122af1d8a04d9b89e9ede/jetified-ironsource-adapter-7.2.1.1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/modules-2/files-2.1/com.applovin.mediation/ironsource-adapter/7.2.1.1.0/bbbd9696c0637768814737d4970013ea0aea959c/ironsource-adapter-7.2.1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

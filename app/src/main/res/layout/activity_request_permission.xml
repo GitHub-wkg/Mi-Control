@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.ActivityRequestPermission">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/layout_back"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingStart="@dimen/_20sdp"
+        android:paddingTop="@dimen/_15sdp"
+        android:paddingEnd="@dimen/_20sdp"
+        android:paddingBottom="@dimen/_15sdp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/ic_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/ic_back" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <TextView
+        android:id="@+id/txt_name_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/font_bold"
+        android:paddingStart="@dimen/_20sdp"
+        android:paddingEnd="@dimen/_20sdp"
+        android:text="@string/grant_permission"
+        android:textColor="#101010"
+        android:textSize="@dimen/_17sdp"
+        app:layout_constraintTop_toBottomOf="@+id/layout_back" />
+
+    <com.ezstudio.controlcenter.customview.MyTextView
+        android:id="@+id/content_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_8sdp"
+        android:layout_marginBottom="@dimen/_10sdp"
+        android:inputType="textMultiLine"
+        android:paddingStart="@dimen/_20sdp"
+        android:paddingEnd="@dimen/_20sdp"
+        android:text="@string/content_grant_permission"
+        android:textColor="#777777"
+        android:textSize="@dimen/_11sdp"
+        app:layout_constraintTop_toBottomOf="@+id/txt_name_title" />
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/img_background_2_sim"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@+id/content_title"
+        app:srcCompat="@drawable/background_grant_permission" />
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/layout_2_sim"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingStart="@dimen/_35sdp"
+        android:paddingTop="@dimen/_25sdp"
+        android:paddingEnd="@dimen/_35sdp"
+        android:paddingBottom="@dimen/_25sdp"
+        app:layout_constraintBottom_toBottomOf="@+id/img_background_2_sim"
+        app:layout_constraintTop_toTopOf="@+id/img_background_2_sim">
+
+        <com.ezstudio.controlcenter.customview.MyTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/two_sim"
+            android:textColor="#101010"
+            android:textSize="@dimen/_13sdp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <androidx.appcompat.widget.SwitchCompat
+            android:id="@+id/switch_status_2_sim"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            android:focusable="true"
+            android:textOff=""
+            android:textOn=""
+            android:thumb="@drawable/thumb_selector"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:track="@drawable/track_selector" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/img_background_notification"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@+id/layout_2_sim"
+        app:srcCompat="@drawable/background_grant_permission" />
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/layout_state_notification"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingStart="@dimen/_35sdp"
+        android:paddingTop="@dimen/_25sdp"
+        android:paddingEnd="@dimen/_35sdp"
+        android:paddingBottom="@dimen/_25sdp"
+        app:layout_constraintBottom_toBottomOf="@+id/img_background_notification"
+        app:layout_constraintTop_toTopOf="@+id/img_background_notification">
+
+        <com.ezstudio.controlcenter.customview.MyTextView
+            android:id="@+id/txt_overlay"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/notification"
+            android:textColor="#101010"
+            android:textSize="@dimen/_13sdp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <androidx.appcompat.widget.SwitchCompat
+            android:id="@+id/switch_overlay"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            android:focusable="true"
+            android:textOff=""
+            android:textOn=""
+            android:thumb="@drawable/thumb_selector"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:track="@drawable/track_selector" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/img_background_accessibility"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@+id/layout_state_notification"
+        app:srcCompat="@drawable/background_grant_permission" />
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/layout_accessibility"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingStart="@dimen/_35sdp"
+        android:paddingTop="@dimen/_25sdp"
+        android:paddingEnd="@dimen/_35sdp"
+        android:paddingBottom="@dimen/_25sdp"
+        app:layout_constraintBottom_toBottomOf="@+id/img_background_accessibility"
+        app:layout_constraintTop_toTopOf="@+id/img_background_accessibility">
+
+        <com.ezstudio.controlcenter.customview.MyTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/accessibility"
+            android:textColor="#101010"
+            android:textSize="@dimen/_13sdp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <androidx.appcompat.widget.SwitchCompat
+            android:id="@+id/switch_status_accessibility"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            android:focusable="true"
+            android:textOff=""
+            android:textOn=""
+            android:thumb="@drawable/thumb_selector"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:track="@drawable/track_selector" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

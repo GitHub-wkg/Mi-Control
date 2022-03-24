@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.startup:startup-runtime:1.0.0@aar">
+    <CLASSES>
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/713c4b930f212392bb6d7227b2c3a3a5/jetified-startup-runtime-1.0.0/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/713c4b930f212392bb6d7227b2c3a3a5/jetified-startup-runtime-1.0.0/res" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/713c4b930f212392bb6d7227b2c3a3a5/jetified-startup-runtime-1.0.0/AndroidManifest.xml" />
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/f5f9cc71dc8bfe910bc13a45bcbf00d3/jetified-startup-runtime-1.0.0/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/f5f9cc71dc8bfe910bc13a45bcbf00d3/jetified-startup-runtime-1.0.0/AndroidManifest.xml" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/f5f9cc71dc8bfe910bc13a45bcbf00d3/jetified-startup-runtime-1.0.0/res" />
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/6f42263c9de8f260f0de6ba0c67eb4ea/jetified-startup-runtime-1.0.0/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/6f42263c9de8f260f0de6ba0c67eb4ea/jetified-startup-runtime-1.0.0/res" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/6f42263c9de8f260f0de6ba0c67eb4ea/jetified-startup-runtime-1.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/modules-2/files-2.1/androidx.startup/startup-runtime/1.0.0/1caeb57122c1e988047c3f5a98493a3a8c6d5f21/startup-runtime-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,9 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
-    android:width="578.405dp"
-    android:height="578.405dp"
-    android:viewportWidth="578.405"
-    android:viewportHeight="578.405">
-  <path
-      android:fillColor="#FFFFFF"
-      android:pathData="M289.203,0C129.736,0 0,129.736 0,289.203C0,448.67 129.736,578.405 289.203,578.405c159.467,0 289.202,-129.735 289.202,-289.202C578.405,129.736 448.67,0 289.203,0zM28.56,289.202C28.56,145.48 145.481,28.56 289.203,28.56l0,0v521.286l0,0C145.485,549.846 28.56,432.925 28.56,289.202z"/>
+    android:name="darkmodeon"
+    android:width="28dp"
+    android:height="28dp"
+    android:viewportWidth="178"
+    android:viewportHeight="178">
+    <group
+        android:pivotX="89"
+        android:pivotY="89"
+        android:scaleX="2"
+        android:scaleY="2">
+        <clip-path
+            android:name="mask"
+            android:pathData="M 89 125 C 69.1 125 53 108.9 53 89 C 53 69.1 69.1 53 89 53 C 108.9 53 125 69.1 125 89 C 125 108.9 108.9 125 89 125 Z" />
+        <group
+            android:name="outgroup"
+            android:pivotX="89"
+            android:pivotY="89">
+            <path
+                android:name="out"
+                android:pathData="M 89 122 C 97.749 122 106.148 118.521 112.335 112.334 C 118.521 106.148 122 97.749 122 89 C 122 80.251 118.521 71.852 112.335 65.665 C 106.148 59.479 97.749 56 89 56 C 80.251 56 71.852 59.479 65.665 65.665 C 59.479 71.852 56 80.251 56 89 C 56 97.749 59.479 106.148 65.665 112.334 C 71.852 118.521 80.251 122 89 122 Z"
+                android:strokeWidth="6"
+                android:strokeColor="#ffffffff"
+                android:strokeLineCap="round"
+                android:strokeLineJoin="round" />
+        </group>
+        <group
+            android:name="innergroup"
+            android:pivotX="89"
+            android:pivotY="89"
+            android:rotation="-180">
+            <clip-path
+                android:name="mask_1"
+                android:pathData="M 89 125 C 69.1 125 53 108.9 53 89 C 53 69.1 69.1 53 89 53 C 108.9 53 125 69.1 125 89 C 125 108.9 108.9 125 89 125 Z" />
+            <path
+                android:name="path_3"
+                android:pathData="M 70.5 89 C 70.5 78.8 78.8 70.5 89 70.5 C 99.2 70.5 107.5 78.8 107.5 89 C 107.5 99.2 99.2 107.5 89 107.5 C 78.8 107.5 70.5 99.2 70.5 89 Z"
+                android:strokeWidth="5"
+                android:strokeColor="#ffffffff" />
+            <path
+                android:name="path_4"
+                android:fillColor="#ffffffff"
+                android:fillType="evenOdd"
+                android:pathData="M 89 110 C 100.6 110 110 100.6 110 89 C 110 77.4 100.6 68 89 68 L 89 110 Z"
+                android:strokeWidth="1" />
+        </group>
+    </group>
 </vector>

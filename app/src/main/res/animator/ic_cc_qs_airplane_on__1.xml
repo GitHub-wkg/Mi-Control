@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <objectAnimator
+        android:duration="737"
+        android:interpolator="@android:interpolator/fast_out_slow_in"
+        android:propertyName="translateY"
+        android:valueFrom="0"
+        android:valueTo="-200"
+        android:valueType="floatType" />
+    <objectAnimator
+        android:duration="501"
+        android:interpolator="@android:anim/accelerate_decelerate_interpolator"
+        android:propertyName="scaleX"
+        android:valueFrom="1"
+        android:valueTo="2.4"
+        android:valueType="floatType" />
+    <objectAnimator
+        android:duration="501"
+        android:interpolator="@android:anim/accelerate_decelerate_interpolator"
+        android:propertyName="scaleY"
+        android:valueFrom="1"
+        android:valueTo="2.4"
+        android:valueType="floatType" />
+    <objectAnimator
+        android:duration="702"
+        android:interpolator="@android:interpolator/fast_out_slow_in"
+        android:propertyName="translateY"
+        android:startOffset="737"
+        android:valueFrom="130"
+        android:valueTo="-3"
+        android:valueType="floatType" />
+    <objectAnimator
+        android:duration="10"
+        android:interpolator="@android:interpolator/fast_out_slow_in"
+        android:propertyName="scaleX"
+        android:startOffset="599"
+        android:valueFrom="1"
+        android:valueTo="2"
+        android:valueType="floatType" />
+    <objectAnimator
+        android:duration="10"
+        android:interpolator="@android:interpolator/fast_out_slow_in"
+        android:propertyName="scaleY"
+        android:startOffset="599"
+        android:valueFrom="1"
+        android:valueTo="2"
+        android:valueType="floatType" />
+    <objectAnimator
+        android:duration="653"
+        android:interpolator="@android:anim/accelerate_decelerate_interpolator"
+        android:propertyName="translateX"
+        android:startOffset="1217"
+        android:valueFrom="0"
+        android:valueTo="-4"
+        android:valueType="floatType" />
+    <objectAnimator
+        android:duration="1130"
+        android:interpolator="@android:anim/accelerate_decelerate_interpolator"
+        android:propertyName="translateX"
+        android:repeatCount="infinite"
+        android:repeatMode="reverse"
+        android:startOffset="1870"
+        android:valueFrom="-4"
+        android:valueTo="4"
+        android:valueType="floatType" />
+    <objectAnimator
+        android:duration="1561"
+        android:interpolator="@android:anim/accelerate_decelerate_interpolator"
+        android:propertyName="translateY"
+        android:startOffset="1439"
+        android:valueFrom="-3"
+        android:valueTo="0"
+        android:valueType="floatType" />
+</set>

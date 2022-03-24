@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: me.grantland:autofittextview:0.2.1@aar">
+    <CLASSES>
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/85005a90fd198f59d58f8e66d34e28ba/jetified-autofittextview-0.2.1/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/85005a90fd198f59d58f8e66d34e28ba/jetified-autofittextview-0.2.1/res" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/85005a90fd198f59d58f8e66d34e28ba/jetified-autofittextview-0.2.1/AndroidManifest.xml" />
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/ed731b9a2ddc41896045415cf6354219/jetified-autofittextview-0.2.1/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/ed731b9a2ddc41896045415cf6354219/jetified-autofittextview-0.2.1/AndroidManifest.xml" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/ed731b9a2ddc41896045415cf6354219/jetified-autofittextview-0.2.1/res" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/3d52e25c85569f2dcc062ffa01b83245/jetified-autofittextview-0.2.1/res" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/3d52e25c85569f2dcc062ffa01b83245/jetified-autofittextview-0.2.1/AndroidManifest.xml" />
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/3d52e25c85569f2dcc062ffa01b83245/jetified-autofittextview-0.2.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/modules-2/files-2.1/me.grantland/autofittextview/0.2.1/3f2d19f6f8b69856350a677574c86576dafdae05/autofittextview-0.2.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/modules-2/files-2.1/me.grantland/autofittextview/0.2.1/4e12caef5d0681a6c3dacb4ddcaa7589dc4f531c/autofittextview-0.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

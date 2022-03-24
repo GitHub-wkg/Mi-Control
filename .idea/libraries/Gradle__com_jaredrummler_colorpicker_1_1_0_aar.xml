@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="Gradle: com.jaredrummler:colorpicker:1.1.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/4ba6afd76c92560df8614120669db523/jetified-colorpicker-1.1.0/annotations.zip!/" />
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/623b05fc8db6d4cadbad84a6b5a7b856/jetified-colorpicker-1.1.0/annotations.zip!/" />
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/eb94f6893a8b0cab50030573cb0edcf8/jetified-colorpicker-1.1.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/4ba6afd76c92560df8614120669db523/jetified-colorpicker-1.1.0/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/4ba6afd76c92560df8614120669db523/jetified-colorpicker-1.1.0/res" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/4ba6afd76c92560df8614120669db523/jetified-colorpicker-1.1.0/AndroidManifest.xml" />
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/623b05fc8db6d4cadbad84a6b5a7b856/jetified-colorpicker-1.1.0/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/623b05fc8db6d4cadbad84a6b5a7b856/jetified-colorpicker-1.1.0/res" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/623b05fc8db6d4cadbad84a6b5a7b856/jetified-colorpicker-1.1.0/AndroidManifest.xml" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/eb94f6893a8b0cab50030573cb0edcf8/jetified-colorpicker-1.1.0/AndroidManifest.xml" />
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/eb94f6893a8b0cab50030573cb0edcf8/jetified-colorpicker-1.1.0/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/eb94f6893a8b0cab50030573cb0edcf8/jetified-colorpicker-1.1.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/modules-2/files-2.1/com.jaredrummler/colorpicker/1.1.0/b0480321f3c4656c74aabf66d64a7b5a43a0ebd9/colorpicker-1.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/modules-2/files-2.1/com.jaredrummler/colorpicker/1.1.0/c589988acbf68d83925eaaa3286744e28799b6dd/colorpicker-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

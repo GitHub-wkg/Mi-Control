@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <objectAnimator android:interpolator="@android:anim/accelerate_decelerate_interpolator" android:duration="122" android:startOffset="50" android:valueFrom="0" android:valueTo="-5" android:valueType="floatType" android:propertyName="translateX"/>
+    <objectAnimator android:interpolator="@android:interpolator/fast_out_slow_in" android:duration="131" android:startOffset="172" android:valueFrom="-5" android:valueTo="5" android:valueType="floatType" android:propertyName="translateX"/>
+    <objectAnimator android:interpolator="@android:anim/accelerate_decelerate_interpolator" android:duration="161" android:startOffset="303" android:valueFrom="5" android:valueTo="-3" android:valueType="floatType" android:propertyName="translateX"/>
+    <objectAnimator android:interpolator="@android:anim/accelerate_decelerate_interpolator" android:duration="162" android:startOffset="464" android:valueFrom="-3" android:valueTo="2" android:valueType="floatType" android:propertyName="translateX"/>
+    <objectAnimator android:interpolator="@android:anim/accelerate_decelerate_interpolator" android:duration="155" android:startOffset="626" android:valueFrom="2" android:valueTo="0" android:valueType="floatType" android:propertyName="translateX"/>
+</set>

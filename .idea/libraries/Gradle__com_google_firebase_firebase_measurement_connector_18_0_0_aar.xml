@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-measurement-connector:18.0.0@aar">
+    <CLASSES>
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/311d6e5911d407450e7323d4fd6c7152/jetified-firebase-measurement-connector-18.0.0/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/311d6e5911d407450e7323d4fd6c7152/jetified-firebase-measurement-connector-18.0.0/res" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/311d6e5911d407450e7323d4fd6c7152/jetified-firebase-measurement-connector-18.0.0/AndroidManifest.xml" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/8e3bcb5f452722ed577bd15ca678a450/jetified-firebase-measurement-connector-18.0.0/res" />
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/8e3bcb5f452722ed577bd15ca678a450/jetified-firebase-measurement-connector-18.0.0/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/8e3bcb5f452722ed577bd15ca678a450/jetified-firebase-measurement-connector-18.0.0/AndroidManifest.xml" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/853b791afb252d2d712f0f9cd7753d7f/jetified-firebase-measurement-connector-18.0.0/res" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/853b791afb252d2d712f0f9cd7753d7f/jetified-firebase-measurement-connector-18.0.0/AndroidManifest.xml" />
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/853b791afb252d2d712f0f9cd7753d7f/jetified-firebase-measurement-connector-18.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

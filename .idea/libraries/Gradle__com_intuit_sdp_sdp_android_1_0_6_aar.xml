@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.intuit.sdp:sdp-android:1.0.6@aar">
+    <CLASSES>
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/42f0df9675ccf7e8cb7bb5e0ab23233f/jetified-sdp-android-1.0.6/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/42f0df9675ccf7e8cb7bb5e0ab23233f/jetified-sdp-android-1.0.6/res" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/42f0df9675ccf7e8cb7bb5e0ab23233f/jetified-sdp-android-1.0.6/AndroidManifest.xml" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/e65a13e4f9c869ac6d5a4000e9ef75ab/jetified-sdp-android-1.0.6/res" />
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/e65a13e4f9c869ac6d5a4000e9ef75ab/jetified-sdp-android-1.0.6/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/e65a13e4f9c869ac6d5a4000e9ef75ab/jetified-sdp-android-1.0.6/AndroidManifest.xml" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/f8959d4341a4b62d94dc50283f50d2bc/jetified-sdp-android-1.0.6/res" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/f8959d4341a4b62d94dc50283f50d2bc/jetified-sdp-android-1.0.6/AndroidManifest.xml" />
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/f8959d4341a4b62d94dc50283f50d2bc/jetified-sdp-android-1.0.6/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

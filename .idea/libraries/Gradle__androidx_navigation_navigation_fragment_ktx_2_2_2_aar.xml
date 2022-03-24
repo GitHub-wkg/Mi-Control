@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.navigation:navigation-fragment-ktx:2.2.2@aar">
+    <CLASSES>
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/6dbf28f96b88a8d38f0f66289a18c774/navigation-fragment-ktx-2.2.2/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/6dbf28f96b88a8d38f0f66289a18c774/navigation-fragment-ktx-2.2.2/res" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/6dbf28f96b88a8d38f0f66289a18c774/navigation-fragment-ktx-2.2.2/AndroidManifest.xml" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/32aa27fb6d2f1d8492de21f262e6732b/navigation-fragment-ktx-2.2.2/AndroidManifest.xml" />
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/32aa27fb6d2f1d8492de21f262e6732b/navigation-fragment-ktx-2.2.2/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/32aa27fb6d2f1d8492de21f262e6732b/navigation-fragment-ktx-2.2.2/res" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/799ebc2ce47c48390bf57e3616463cfa/navigation-fragment-ktx-2.2.2/AndroidManifest.xml" />
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/799ebc2ce47c48390bf57e3616463cfa/navigation-fragment-ktx-2.2.2/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/799ebc2ce47c48390bf57e3616463cfa/navigation-fragment-ktx-2.2.2/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/modules-2/files-2.1/androidx.navigation/navigation-fragment-ktx/2.2.2/9bebacd34921c1dd65c0cf5ceb32f70e8c7b17b9/navigation-fragment-ktx-2.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

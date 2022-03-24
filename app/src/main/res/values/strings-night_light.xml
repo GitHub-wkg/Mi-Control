@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quick_settings_night_display_label_vi">mắt</string>
+    <string name="quick_settings_night_display_label_vi_1">eye</string>
+    <string name="quick_settings_night_display_label_af">Ánh sáng đêm</string>
+    <string name="quick_settings_night_display_label_as">Blue Night</string>
+    <string name="quick_settings_night_display_label_az">xanh</string>
+    <string name="quick_settings_night_display_label_bg">Ноћно светло</string>
+    <string name="quick_settings_night_display_label_bn">Nattljus</string>
+    <string name="quick_settings_night_display_label_bs">Mwanga wa Usiku</string>
+    <string name="quick_settings_night_display_label_ca">நைட் லைட்</string>
+    <string name="quick_settings_night_display_label_da">రాత్రి కాంతి</string>
+    <string name="quick_settings_night_display_label_de">แสงตอนกลางคืน</string>
+    <string name="quick_settings_night_display_label_el">Night Light</string>
+    <string name="quick_settings_night_display_label_rAU">Gece Işığı</string>
+    <string name="quick_settings_night_display_label_rCA">Нічний режим</string>
+    <string name="quick_settings_night_display_label_rGB">نائٹ لائٹ</string>
+    <string name="quick_settings_night_display_label_rIN">Tungi rejim</string>
+    <string name="quick_settings_night_display_label_es">夜间模式</string>
+    <string name="quick_settings_night_display_label_et">夜燈模式</string>
+    <string name="quick_settings_night_display_label_fa">夜燈</string>
+    <string name="quick_settings_night_display_label_fi">Ukukhanya kwasebusuku</string>
+    <string name="quick_settings_night_display_label_fr">Éjszakai fény</string>
+    <string name="quick_settings_night_display_label_gl">Գիշերային ռեժիմ</string>
+    <string name="quick_settings_night_display_label_gu">Cahaya Malam</string>
+    <string name="quick_settings_night_display_label_hr">Luminosità notturna</string>
+    <string name="quick_settings_night_display_label_hu">תאורת לילה</string>
+    <string name="quick_settings_night_display_label_hy">Aandbeligting</string>
+    <string name="quick_settings_night_display_label_in">Llum nocturna</string>
+    <string name="quick_settings_night_display_label_is">Noční režim</string>
+    <string name="quick_settings_night_display_label_it">Nattelys</string>
+    <string name="quick_settings_night_display_label_iw">Nachtlicht</string>
+    <string name="quick_settings_night_display_label_ja">Νυχτερινός φωτισμός</string>
+</resources>

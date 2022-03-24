@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.navigation:navigation-fragment:2.2.2@aar">
+    <CLASSES>
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/73219f3281bf9271713ba1dadf450cdc/navigation-fragment-2.2.2/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/73219f3281bf9271713ba1dadf450cdc/navigation-fragment-2.2.2/res" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/73219f3281bf9271713ba1dadf450cdc/navigation-fragment-2.2.2/AndroidManifest.xml" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/cde51224779d6630f67dac30f62e578a/navigation-fragment-2.2.2/AndroidManifest.xml" />
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/cde51224779d6630f67dac30f62e578a/navigation-fragment-2.2.2/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/cde51224779d6630f67dac30f62e578a/navigation-fragment-2.2.2/res" />
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/876adb1d016a2e87c6a11e8702e2371e/navigation-fragment-2.2.2/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/876adb1d016a2e87c6a11e8702e2371e/navigation-fragment-2.2.2/AndroidManifest.xml" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/876adb1d016a2e87c6a11e8702e2371e/navigation-fragment-2.2.2/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/modules-2/files-2.1/androidx.navigation/navigation-fragment/2.2.2/14236c383673a4736a6e5429e10d7f418b10489b/navigation-fragment-2.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

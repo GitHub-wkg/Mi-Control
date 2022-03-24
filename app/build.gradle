@@ -3,20 +3,29 @@ plugins {
     id 'kotlin-android'
     id 'kotlin-kapt'
     id 'kotlin-android-extensions'
+    id 'com.google.gms.google-services'
+    id 'com.google.firebase.crashlytics'
 }
 apply plugin: 'kotlin-android'
 
+apply plugin: 'applovin-quality-service'
+applovin {
+    apiKey "c6A1iFSitmVlIuhTlnunm8a4yA-CFW6s2KDr_2HZuSVzMhSZbMHS4_1zqTneldiz6Jiipza3UAkTOBukN6uGbe"
+}
+
 android {
-    compileSdkVersion 30
+    compileSdkVersion 31
     buildToolsVersion "30.0.3"
 
     defaultConfig {
         applicationId "com.ezstudio.controlcenter"
-        minSdkVersion 19
-        targetSdkVersion 30
+        minSdkVersion 21
+        targetSdkVersion 31
         versionCode 1
         versionName "1.0"
         vectorDrawables.useSupportLibrary = true
+        renderscriptTargetApi 17
+        renderscriptSupportModeEnabled true
     }
 
     buildTypes {
@@ -35,18 +44,50 @@ android {
 }
 
 dependencies {
-
-    implementation 'androidx.appcompat:appcompat:1.2.0'
-    implementation 'com.google.android.material:material:1.3.0'
-    implementation 'androidx.constraintlayout:constraintlayout:2.0.4'
-    implementation "androidx.core:core-ktx:+"
+    implementation 'androidx.appcompat:appcompat:1.4.1'
+    implementation 'com.google.android.material:material:1.5.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.3'
+    implementation "androidx.core:core-ktx:1.7.0"
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
     implementation 'com.intuit.sdp:sdp-android:1.0.6'
-    implementation "androidx.window:window:1.0.0-alpha05"
+    implementation "androidx.window:window:1.0.0"
     implementation "androidx.cardview:cardview:1.0.0"
-    implementation 'com.github.alpbak:BoxedVerticalSeekBar:1.1.1'
-    implementation project(path: ':liboverscroll')
+    implementation 'com.jaredrummler:colorpicker:1.1.0'
+    implementation 'com.github.yalantis:ucrop:2.2.6'
+    implementation 'me.grantland:autofittextview:0.2.1'
+    /*https://developer.android.com/kotlin/coroutines*/
+    implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-android:1.5.0'
+
+    /*https://github.com/wysaid/android-gpuimage-plus*/
+    implementation 'org.wysaid:gpuimage-plus:2.6.3'
+    implementation project(path: ':expandablecheckrecyclerview')
+    implementation project(path: ':expandablerecyclervieww')
+    implementation project(path: ':base-module')
+
+    implementation 'com.github.bumptech.glide:glide:4.12.0'
+    annotationProcessor 'com.github.bumptech.glide:compiler:4.12.0'
+    //
+    implementation "org.koin:koin-core:2.2.2"
+    implementation "org.koin:koin-android:2.2.2"
+    // Koin AndroidX ViewModel features
+    implementation "org.koin:koin-androidx-viewmodel:2.2.2"
+    // scroll
+    implementation 'me.everything:overscroll-decor-android:1.0.4'
 }
+
+dependencies {
+    implementation "androidx.multidex:multidex:2.0.1"
+    implementation 'com.google.android.gms:play-services-ads:20.6.0'
+    implementation 'com.flurry.android:analytics:12.11.0@aar'
+    implementation platform('com.google.firebase:firebase-bom:26.6.0')
+    implementation 'com.google.firebase:firebase-analytics:20.1.1'
+    implementation 'com.google.firebase:firebase-config:21.0.2'
+    implementation 'com.google.firebase:firebase-crashlytics'
+    implementation 'com.intuit.ssp:ssp-android:1.0.6'
+    implementation 'androidx.work:work-runtime-ktx:2.8.0-alpha01'
+    implementation project(path: ':ads-module')
+}
+
 repositories {
     mavenCentral()
 }

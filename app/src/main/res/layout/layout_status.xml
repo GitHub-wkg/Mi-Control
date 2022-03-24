@@ -1,82 +1,148 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    xmlns:tools="http://schemas.android.com/tools"
+    android:paddingStart="@dimen/_10sdp"
+    android:paddingEnd="@dimen/_10sdp"
+    android:paddingBottom="@dimen/_1sdp"
     android:weightSum="6"
-    tools:background="#80000000"
-    xmlns:app="http://schemas.android.com/apk/res-auto">
+    tools:background="#80000000">
 
     <LinearLayout
+        android:id="@+id/layout_state_sim"
         android:layout_width="0dp"
-        android:layout_height="match_parent"
-        android:layout_weight="3">
+        android:layout_height="wrap_content"
+        android:layout_weight="3.6"
+        android:orientation="vertical">
 
-        <TextView
-            android:ellipsize="marquee"
-            android:focusable="true"
-            android:focusableInTouchMode="true"
-            android:scrollHorizontally="true"
-            android:singleLine="true"
-            android:marqueeRepeatLimit="marquee_forever"
-            android:id="@+id/name_sim"
-            android:layout_width="wrap_content"
+        <LinearLayout
+            android:id="@+id/layout_sim1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_3sdp">
+
+            <androidx.appcompat.widget.AppCompatImageView
+                android:id="@+id/ic_silent_sim_1"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                app:srcCompat="@drawable/ic_signal_sim_full" />
+
+            <androidx.appcompat.widget.AppCompatImageView
+                android:id="@+id/ic_sim_1"
+                android:layout_width="@dimen/_10sdp"
+                android:layout_height="@dimen/_14sdp"
+                android:layout_marginEnd="@dimen/_2sdp"
+                android:paddingTop="@dimen/_5sdp"
+                app:srcCompat="@drawable/ic_sim_1" />
+
+            <com.ezstudio.controlcenter.customview.MyTextView
+                android:id="@+id/name_sim_1"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:ellipsize="marquee"
+                android:focusable="true"
+                android:focusableInTouchMode="true"
+                android:gravity="center_vertical"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:scrollHorizontally="true"
+                android:singleLine="true"
+                android:text="@string/no_sim_card"
+                android:textColor="@color/white" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:visibility="gone"
+            android:id="@+id/layout_sim2"
+            android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:gravity="center_vertical"
-            android:text="@string/no_sim_card"
-            android:textColor="@color/white" />
+            android:layout_marginTop="-4dp">
+
+            <androidx.appcompat.widget.AppCompatImageView
+                android:id="@+id/ic_silent_sim_2"
+                android:layout_width="@dimen/_20sdp"
+                android:layout_height="@dimen/_20sdp"
+                app:srcCompat="@drawable/ic_signal_sim_full" />
+
+            <androidx.appcompat.widget.AppCompatImageView
+                android:id="@+id/ic_sim_2"
+                android:layout_width="@dimen/_10sdp"
+                android:layout_height="@dimen/_14sdp"
+                android:layout_marginEnd="@dimen/_2sdp"
+                android:paddingTop="@dimen/_5sdp"
+                app:srcCompat="@drawable/ic_sim2" />
+
+            <com.ezstudio.controlcenter.customview.MyTextView
+                android:id="@+id/name_sim_2"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:ellipsize="marquee"
+                android:focusable="true"
+                android:focusableInTouchMode="true"
+                android:gravity="center_vertical"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:scrollHorizontally="true"
+                android:singleLine="true"
+                android:text="@string/no_sim_card"
+                android:textColor="@color/white" />
+        </LinearLayout>
+
     </LinearLayout>
 
-    <RelativeLayout
+    <androidx.constraintlayout.widget.ConstraintLayout
         android:id="@+id/views_status"
         android:layout_width="0dp"
         android:layout_height="match_parent"
-        android:layout_weight="3">
-
-        <TextView
-            android:id="@+id/txt_internet"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginEnd="@dimen/_7sdp"
-            android:layout_toStartOf="@+id/ic_sound"
-            android:ellipsize="marquee"
-            android:focusable="true"
-            android:focusableInTouchMode="true"
-            android:scrollHorizontally="true"
-            android:text="0 kB/s"
-            android:textColor="@color/white"
-            android:textSize="@dimen/_10sdp" />
+        android:layout_weight="2.4">
 
         <androidx.appcompat.widget.AppCompatImageView
             android:id="@+id/ic_sound"
-            android:layout_width="@dimen/_12sdp"
-            android:layout_height="@dimen/_12sdp"
-            android:layout_marginEnd="@dimen/_5sdp"
-            android:layout_toStartOf="@+id/ic_silent"
-            app:srcCompat="@drawable/ic_silent" />
-
-        <androidx.appcompat.widget.AppCompatImageView
-            android:id="@+id/ic_silent"
-            android:layout_width="@dimen/_12sdp"
-            android:layout_height="@dimen/_12sdp"
-            android:layout_marginEnd="@dimen/_5sdp"
+            android:layout_width="23dp"
+            android:layout_height="23dp"
+            android:layout_marginTop="@dimen/_3sdp"
             android:layout_toStartOf="@+id/ic_wifi"
-            app:srcCompat="@drawable/ic_signal_sim" />
+            android:paddingStart="3dp"
+            android:paddingTop="4dp"
+            android:paddingEnd="0dp"
+            android:paddingBottom="3dp"
+            app:layout_constraintEnd_toStartOf="@+id/ic_wifi"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/ic_ring" />
 
         <androidx.appcompat.widget.AppCompatImageView
             android:id="@+id/ic_wifi"
-            android:layout_width="@dimen/_12sdp"
-            android:layout_height="@dimen/_12sdp"
-            android:layout_marginEnd="@dimen/_5sdp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_3sdp"
+            android:layout_marginEnd="@dimen/_1sdp"
+            android:layout_toStartOf="@+id/txt_percent"
+            app:layout_constraintEnd_toStartOf="@+id/txt_percent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/ic_wifi_full" />
+
+        <com.ezstudio.controlcenter.customview.MyTextView
+            android:id="@+id/txt_percent"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/_16sdp"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="@dimen/_3sdp"
             android:layout_toStartOf="@+id/ic_battery"
-            app:srcCompat="@drawable/ic_wifi" />
+            android:gravity="center"
+            android:paddingTop="@dimen/_1sdp"
+            android:text="100%"
+            android:textColor="@color/white"
+            app:layout_constraintEnd_toStartOf="@+id/ic_battery"
+            app:layout_constraintTop_toTopOf="parent" />
 
         <androidx.appcompat.widget.AppCompatImageView
             android:id="@+id/ic_battery"
-            android:layout_marginEnd="@dimen/_10sdp"
-            android:layout_width="@dimen/_15sdp"
-            android:layout_height="@dimen/_15sdp"
+            android:layout_width="@dimen/_23sdp"
+            android:layout_height="@dimen/_20sdp"
             android:layout_alignParentEnd="true"
-            app:srcCompat="@drawable/ic_battery" />
-    </RelativeLayout>
+            android:layout_marginTop="@dimen/_2sdp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/ic_charging_battery_full" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
 </LinearLayout>

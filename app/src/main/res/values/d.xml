@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quick_settings_hotspot_label_vi"></string>
+    <string name="quick_settings_hotspot_label_vi_1">bay</string>
+    <string name="quick_settings_hotspot_label_af"></string>
+    <string name="quick_settings_hotspot_label_as"></string>
+    <string name="quick_settings_hotspot_label_az"></string>
+    <string name="quick_settings_hotspot_label_be"></string>
+    <string name="quick_settings_hotspot_label_bg">Рэжым палёту</string>
+    <string name="quick_settings_hotspot_label_bn"></string>
+    <string name="quick_settings_hotspot_label_bs"></string>
+    <string name="quick_settings_hotspot_label_ca"></string>
+    <string name="_da"></string>
+    <string name="_de"></string>
+    <string name="_el"></string>
+    <string name="_rAU"></string>
+    <string name="_rCA"></string>
+    <string name="_rGB"></string>
+    <string name="_rIN"></string>
+    <string name="_es"></string>
+    <string name="_et"></string>
+    <string name="_fa"></string>
+    <string name="_fi"></string>
+    <string name="_fr"></string>
+    <string name="_gl"></string>
+    <string name="_gu"></string>
+    <string name="_hr"></string>
+    <string name="_hu"></string>
+    <string name="_hy"></string>
+    <string name="_in"></string>
+    <string name="_is"></string>
+    <string name="_it"></string>
+    <string name="_iw"></string>
+    <string name="_ja"></string>
+</resources>

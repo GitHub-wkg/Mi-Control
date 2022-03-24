@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.applovin:applovin-sdk:11.3.1@aar">
+    <CLASSES>
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/6af7b316e7147aaff35c1cb9d861d693/jetified-applovin-sdk-11.3.1/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/6af7b316e7147aaff35c1cb9d861d693/jetified-applovin-sdk-11.3.1/res" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/6af7b316e7147aaff35c1cb9d861d693/jetified-applovin-sdk-11.3.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/modules-2/files-2.1/com.applovin/applovin-sdk/11.3.1/55d47761520862b74369063016e517b31ba35049/applovin-sdk-11.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

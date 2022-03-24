@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.applovin.mediation:inmobi-adapter:10.0.5.1@aar">
+    <CLASSES>
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/dde210c462efde7173111d635e8a7a23/jetified-inmobi-adapter-10.0.5.1/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/dde210c462efde7173111d635e8a7a23/jetified-inmobi-adapter-10.0.5.1/res" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/dde210c462efde7173111d635e8a7a23/jetified-inmobi-adapter-10.0.5.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/modules-2/files-2.1/com.applovin.mediation/inmobi-adapter/10.0.5.1/1b082d957ac0898e0ed1d7a77adc2feb6b972140/inmobi-adapter-10.0.5.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

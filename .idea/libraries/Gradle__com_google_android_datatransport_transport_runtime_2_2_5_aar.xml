@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.datatransport:transport-runtime:2.2.5@aar">
+    <CLASSES>
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/3f299a94f71d50080fbd78ddcc7c1195/jetified-transport-runtime-2.2.5/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/3f299a94f71d50080fbd78ddcc7c1195/jetified-transport-runtime-2.2.5/res" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/3f299a94f71d50080fbd78ddcc7c1195/jetified-transport-runtime-2.2.5/AndroidManifest.xml" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/8bb25718bc6d9bb0bf57901c6878c682/jetified-transport-runtime-2.2.5/res" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/8bb25718bc6d9bb0bf57901c6878c682/jetified-transport-runtime-2.2.5/AndroidManifest.xml" />
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/8bb25718bc6d9bb0bf57901c6878c682/jetified-transport-runtime-2.2.5/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/c2c4639f015d50cfdd6510fa455e240c/jetified-transport-runtime-2.2.5/AndroidManifest.xml" />
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/c2c4639f015d50cfdd6510fa455e240c/jetified-transport-runtime-2.2.5/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/c2c4639f015d50cfdd6510fa455e240c/jetified-transport-runtime-2.2.5/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/modules-2/files-2.1/com.google.android.datatransport/transport-runtime/2.2.5/38c4e6b083c7e6b9ff2c5887a5cdc3f32ad358ae/transport-runtime-2.2.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

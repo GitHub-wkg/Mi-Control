@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.android:audience-network-sdk:6.8.0@aar">
+    <CLASSES>
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/0862862e0371c608d09a94a1330e56ac/jetified-audience-network-sdk-6.8.0/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/0862862e0371c608d09a94a1330e56ac/jetified-audience-network-sdk-6.8.0/res" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/0862862e0371c608d09a94a1330e56ac/jetified-audience-network-sdk-6.8.0/AndroidManifest.xml" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/a3182188367f3ed809e04b4e5d617fc2/jetified-audience-network-sdk-6.8.0/AndroidManifest.xml" />
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/a3182188367f3ed809e04b4e5d617fc2/jetified-audience-network-sdk-6.8.0/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/a3182188367f3ed809e04b4e5d617fc2/jetified-audience-network-sdk-6.8.0/res" />
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/73236cd044be4ff39baa5d8d31282eca/jetified-audience-network-sdk-6.8.0/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/73236cd044be4ff39baa5d8d31282eca/jetified-audience-network-sdk-6.8.0/AndroidManifest.xml" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/73236cd044be4ff39baa5d8d31282eca/jetified-audience-network-sdk-6.8.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

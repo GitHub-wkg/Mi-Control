@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.browser:browser:1.3.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/e6a48f854becab57cd260fc0523526c9/browser-1.3.0/annotations.zip!/" />
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/9e04b11ed807970f8203d0cbf3e2b906/browser-1.3.0/annotations.zip!/" />
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/61dc45509e489033160ee00847a943af/browser-1.3.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/e6a48f854becab57cd260fc0523526c9/browser-1.3.0/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/e6a48f854becab57cd260fc0523526c9/browser-1.3.0/res" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/e6a48f854becab57cd260fc0523526c9/browser-1.3.0/AndroidManifest.xml" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/9e04b11ed807970f8203d0cbf3e2b906/browser-1.3.0/res" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/9e04b11ed807970f8203d0cbf3e2b906/browser-1.3.0/AndroidManifest.xml" />
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/9e04b11ed807970f8203d0cbf3e2b906/browser-1.3.0/jars/classes.jar!/" />
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/61dc45509e489033160ee00847a943af/browser-1.3.0/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/61dc45509e489033160ee00847a943af/browser-1.3.0/AndroidManifest.xml" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/61dc45509e489033160ee00847a943af/browser-1.3.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/modules-2/files-2.1/androidx.browser/browser/1.3.0/7ad6013ea18d28a089b76a439ee22941f45e6b95/browser-1.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

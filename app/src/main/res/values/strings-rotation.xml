@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quick_settings_rotation_unlocked_label_vi">Tự động xoay</string>
+    <string name="quick_settings_rotation_unlocked_label_vi_1">xoay</string>
+    <string name="quick_settings_rotation_unlocked_label_af">নিজে থেকে ঘুরবে</string>
+    <string name="quick_settings_rotation_unlocked_label_ar">Automatsko rotiranje</string>
+    <string name="quick_settings_rotation_unlocked_label_as">Gira automàticament</string>
+    <string name="quick_settings_rotation_unlocked_label_az">Automatické otáčení</string>
+    <string name="quick_settings_rotation_unlocked_label_be">Roter automatisk</string>
+    <string name="quick_settings_rotation_unlocked_label_bg">Automatisch drehen</string>
+    <string name="quick_settings_rotation_unlocked_label_bn">Αυτόματη περιστροφή</string>
+    <string name="quick_settings_rotation_unlocked_label_bs">Girar automáticament</string>
+    <string name="quick_settings_rotation_unlocked_label_ca">Automaatne pööramine</string>
+    <string name="quick_settings_rotation_unlocked_label_da">Biratze automatikoa</string>
+    <string name="quick_settings_rotation_unlocked_label_de">چرخش خودکار</string>
+    <string name="quick_settings_rotation_unlocked_label_el">Automaattinen kääntö</string>
+    <string name="quick_settings_rotation_unlocked_label_rAU">Rotation automatique</string>
+    <string name="quick_settings_rotation_unlocked_label_rCA">Rotation automatique</string>
+    <string name="quick_settings_rotation_unlocked_label_rIN">Xirar automaticamente</string>
+    <string name="quick_settings_rotation_unlocked_label_es">अपने आप घूमना</string>
+    <string name="quick_settings_rotation_unlocked_label_et">આપમેળે ફેરવો</string>
+    <string name="quick_settings_rotation_unlocked_label_fa">स्वतःघुम्ने</string>
+    <string name="quick_settings_rotation_unlocked_label_fi">Automatisch draaien</string>
+    <string name="quick_settings_rotation_unlocked_label_fr">୍ୱତଃ-ଘୂର୍ଣ୍ଣନ</string>
+    <string name="quick_settings_rotation_unlocked_label_gl">ਆਟੋ-ਰੋਟੇਟ</string>
+    <string name="quick_settings_rotation_unlocked_label_gu">Autoobracanie</string>
+    <string name="quick_settings_rotation_unlocked_label_hr">Giro automático</string>
+    <string name="quick_settings_rotation_unlocked_label_hu">Rotire automată</string>
+    <string name="quick_settings_rotation_unlocked_label_in">Автоповорот</string>
+    <string name="quick_settings_rotation_unlocked_label_is">ස්වයංක්‍රීය කරකැවීම</string>
+    <string name="quick_settings_rotation_unlocked_label_it">Automatické otáčanie</string>
+    <string name="quick_settings_rotation_unlocked_label_iw">Samodejno sukanje</string>
+    <string name="quick_settings_rotation_unlocked_label_ja">Rrotullim automatik</string>
+    <string name="quick_settings_rotation_unlocked_label_ka">Аутоматска ротација</string>
+    <string name="quick_settings_rotation_unlocked_label_kk">Rotera automatiskt</string>
+    <string name="quick_settings_rotation_unlocked_label_km">Zungusha kiotomatiki</string>
+    <string name="quick_settings_rotation_unlocked_label_kn">தானாகச் சுழற்று</string>
+    <string name="quick_settings_rotation_unlocked_label_ky">Rotation</string>
+</resources>

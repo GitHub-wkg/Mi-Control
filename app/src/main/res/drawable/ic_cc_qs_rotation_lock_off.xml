@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:androidprv="http://schemas.android.com/apk/prv/res/android" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:drawable="@drawable/ic_rotation_lock">
+    <target android:name="group" android:animation="@animator/ic_cc_qs_rotation_lock_off__1"/>
+    <target android:name="group_2" android:animation="@animator/ic_cc_qs_rotation_lock_off__2"/>
+    <target android:name="handler" android:animation="@animator/ic_cc_qs_rotation_lock_off__3"/>
+    <target android:name="group_1" android:animation="@animator/ic_cc_qs_rotation_lock_off__4"/>
+    <target android:name="group_3" android:animation="@animator/ic_cc_qs_rotation_lock_off__5"/>
+</animated-vector>

@@ -1,12 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
-    android:width="511.999dp"
-    android:height="511.999dp"
-    android:viewportWidth="511.999"
-    android:viewportHeight="511.999">
-  <path
-      android:fillColor="#FFFFFF"
-      android:pathData="M508.745,246.041c-4.574,-6.257 -113.557,-153.206 -252.748,-153.206S7.818,239.784 3.249,246.035c-4.332,5.936 -4.332,13.987 0,19.923c4.569,6.257 113.557,153.206 252.748,153.206s248.174,-146.95 252.748,-153.201C513.083,260.028 513.083,251.971 508.745,246.041zM255.997,385.406c-102.529,0 -191.33,-97.533 -217.617,-129.418c26.253,-31.913 114.868,-129.395 217.617,-129.395c102.524,0 191.319,97.516 217.617,129.418C447.361,287.923 358.746,385.406 255.997,385.406z"/>
-  <path
-      android:fillColor="#FFFFFF"
-      android:pathData="M255.997,154.725c-55.842,0 -101.275,45.433 -101.275,101.275s45.433,101.275 101.275,101.275s101.275,-45.433 101.275,-101.275S311.839,154.725 255.997,154.725zM255.997,323.516c-37.23,0 -67.516,-30.287 -67.516,-67.516s30.287,-67.516 67.516,-67.516s67.516,30.287 67.516,67.516S293.227,323.516 255.997,323.516z"/>
+    android:name="eye"
+    android:width="28dp"
+    android:height="28dp"
+    android:viewportWidth="178"
+    android:viewportHeight="178">
+    <group
+        android:name="group_1"
+        android:pivotX="89"
+        android:pivotY="89"
+        android:scaleX="2"
+        android:scaleY="2">
+        <path
+            android:name="path_1"
+            android:pathData="M 55 88.968 C 60.055 74.478 74.438 64 89 64 C 103.562 64 117.945 74.478 123 88.968 C 117.911 103.492 103.388 114 89 114 C 74.612 114 60.089 103.492 55 88.968 Z"
+            android:strokeWidth="6"
+            android:strokeColor="#fff"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round" />
+    </group>
+    <group
+        android:name="group"
+        android:pivotX="89"
+        android:pivotY="89"
+        android:scaleX="2"
+        android:scaleY="2">
+        <clip-path
+            android:name="mask"
+            android:pathData="M 55 89 C 60.1 74.5 74.4 64 89 64 C 103.6 64 117.9 74.5 123 89 C 117.9 103.5 103.4 114 89 114 C 74.6 114 60.1 103.5 55 89 Z" />
+        <group
+            android:name="group_2"
+            android:pivotX="89"
+            android:pivotY="89">
+            <path
+                android:name="ball"
+                android:fillColor="#fff"
+                android:pathData="M 89 102 C 96.2 102 102 96.2 102 89 C 102 81.8 96.2 76 89 76 C 81.8 76 76 81.8 76 89 C 76 96.2 81.8 102 89 102 Z"
+                android:strokeWidth="1" />
+        </group>
+    </group>
 </vector>

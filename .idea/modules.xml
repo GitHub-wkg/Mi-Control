@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Control_Center.iml" filepath="$PROJECT_DIR$/.idea/modules/Control_Center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ads-module/Control_Center.ads-module.iml" filepath="$PROJECT_DIR$/.idea/modules/ads-module/Control_Center.ads-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Control_Center.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Control_Center.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/base-module/Control_Center.base-module.iml" filepath="$PROJECT_DIR$/.idea/modules/base-module/Control_Center.base-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/expandablecheckrecyclerview/Control_Center.expandablecheckrecyclerview.iml" filepath="$PROJECT_DIR$/.idea/modules/expandablecheckrecyclerview/Control_Center.expandablecheckrecyclerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/expandablerecyclervieww/Control_Center.expandablerecyclervieww.iml" filepath="$PROJECT_DIR$/.idea/modules/expandablerecyclervieww/Control_Center.expandablerecyclervieww.iml" />
+    </modules>
+  </component>
+</project>

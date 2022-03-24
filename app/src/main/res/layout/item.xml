@@ -19,9 +19,9 @@
             android:layout_gravity="center"
             android:padding="@dimen/_10sdp"
             android:background="@drawable/item_background"
-            app:srcCompat="@drawable/ic_wifi" />
+            app:srcCompat="@drawable/ic_wifi_full" />
 
-        <TextView
+        <com.ezstudio.controlcenter.customview.MyTextView
             android:marqueeRepeatLimit="marquee_forever"
             android:singleLine="true"
             android:ellipsize="marquee"

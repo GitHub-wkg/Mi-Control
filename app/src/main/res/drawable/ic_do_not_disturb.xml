@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:name="dnd"
+    android:width="28dp"
+    android:height="28dp"
+    android:viewportWidth="178"
+    android:viewportHeight="178">
+    <group
+        android:name="group"
+        android:pivotX="89"
+        android:pivotY="89"
+        android:scaleX="2"
+        android:scaleY="2">
+        <path
+            android:name="moon"
+            android:fillColor="#fff"
+            android:fillType="evenOdd"
+            android:pathData="M 84.4 57.5 C 86.1 57.2 87.2 59.3 86.2 60.7 C 83.6 64.8 82.2 69.7 82.2 74.9 C 82.2 89.7 94.2 101.8 109 101.8 C 111.3 101.8 113.5 101.5 115.6 101 C 117.3 100.6 119 102.2 118.2 103.7 C 112.9 114 102.2 121 89.9 121 C 72.3 121 58 106.7 58 89 C 58 73.2 69.4 60 84.4 57.5 Z"
+            android:strokeWidth="1" />
+    </group>
+</vector>

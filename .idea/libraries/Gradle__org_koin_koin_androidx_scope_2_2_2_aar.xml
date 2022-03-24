@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: org.koin:koin-androidx-scope:2.2.2@aar">
+    <CLASSES>
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/d2a046c332ad3d47244ced45b9b7721f/jetified-koin-androidx-scope-2.2.2/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/d2a046c332ad3d47244ced45b9b7721f/jetified-koin-androidx-scope-2.2.2/res" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/d2a046c332ad3d47244ced45b9b7721f/jetified-koin-androidx-scope-2.2.2/AndroidManifest.xml" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/12734a68d1a2500a6c8ba83ca383b7a8/jetified-koin-androidx-scope-2.2.2/res" />
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/12734a68d1a2500a6c8ba83ca383b7a8/jetified-koin-androidx-scope-2.2.2/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/12734a68d1a2500a6c8ba83ca383b7a8/jetified-koin-androidx-scope-2.2.2/AndroidManifest.xml" />
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/830aed301de41782b5c5d77deb5b4675/jetified-koin-androidx-scope-2.2.2/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/830aed301de41782b5c5d77deb5b4675/jetified-koin-androidx-scope-2.2.2/AndroidManifest.xml" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/830aed301de41782b5c5d77deb5b4675/jetified-koin-androidx-scope-2.2.2/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/modules-2/files-2.1/org.koin/koin-androidx-scope/2.2.2/929cab42f478638642e04c428ebac4aeb455d428/koin-androidx-scope-2.2.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/modules-2/files-2.1/org.koin/koin-androidx-scope/2.2.2/463d8a814eafa33854f924abf6cee04fa475c465/koin-androidx-scope-2.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

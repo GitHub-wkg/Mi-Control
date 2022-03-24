@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/_280sdp"
+    android:layout_margin="@dimen/_5sdp"
+    android:background="@drawable/radius_dialog"
+    android:paddingTop="@dimen/_10sdp"
+    >
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/layout_top"
+        android:paddingEnd="@dimen/_10sdp"
+        android:paddingStart="@dimen/_10sdp"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        app:layout_constraintHeight_percent="0.112"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:fontFamily="@font/font_bold"
+            android:id="@+id/txt_dialog_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Wifi"
+            android:textColor="@color/black"
+            android:textSize="@dimen/_18sdp"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <androidx.appcompat.widget.SwitchCompat
+            android:id="@+id/switch_status"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            android:textOff=""
+            android:textOn=""
+            android:thumb="@drawable/thumb_selector"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:track="@drawable/track_selector"
+            android:focusable="true" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/layout_center"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        app:layout_constraintHeight_percent="0.70"
+        app:layout_constraintTop_toBottomOf="@+id/layout_top">
+
+        <LinearLayout
+            android:paddingEnd="@dimen/_10sdp"
+            android:paddingStart="@dimen/_10sdp"
+            android:id="@+id/layout_location"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="vertical"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <androidx.appcompat.widget.AppCompatImageView
+                android:id="@+id/img_dialog"
+                android:layout_width="@dimen/_50sdp"
+                android:layout_height="@dimen/_50sdp"
+                android:padding="@dimen/_5sdp"
+                app:srcCompat="@drawable/ic_location_back" />
+
+            <com.ezstudio.controlcenter.customview.MyTextView
+                android:id="@+id/txt_content_dialog"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:paddingTop="@dimen/_15sdp"
+                android:textColor="#101010"
+                android:textSize="@dimen/_12sdp" />
+        </LinearLayout>
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rcl_scan_wifi"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:overScrollMode="never"
+            android:visibility="gone" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+        <TextView
+            android:id="@+id/line"
+            android:background="#80C4C4C4"
+            app:layout_constraintTop_toBottomOf="@+id/layout_center"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"/>
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_other_settings"
+        android:fontFamily="@font/font"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:background="@drawable/radius_btn_other_settings"
+        android:gravity="center"
+        android:text="@string/other_settings"
+        android:textAllCaps="false"
+        android:textSize="@dimen/_13sdp"
+        android:textColor="@color/color_0094FF"
+        app:layout_constraintHeight_percent="0.18446"
+        app:layout_constraintTop_toBottomOf="@+id/line" />
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: org.wysaid:gpuimage-plus:2.6.3@aar">
+    <CLASSES>
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/62a1964c49dec3600055a56961805d67/jetified-gpuimage-plus-2.6.3/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/62a1964c49dec3600055a56961805d67/jetified-gpuimage-plus-2.6.3/res" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/62a1964c49dec3600055a56961805d67/jetified-gpuimage-plus-2.6.3/AndroidManifest.xml" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/b8c86b833fbb757a195b50864ac00f74/jetified-gpuimage-plus-2.6.3/AndroidManifest.xml" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/b8c86b833fbb757a195b50864ac00f74/jetified-gpuimage-plus-2.6.3/res" />
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/b8c86b833fbb757a195b50864ac00f74/jetified-gpuimage-plus-2.6.3/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/d678f5fa7e0d4dcc322e70caeb65b54d/jetified-gpuimage-plus-2.6.3/res" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/d678f5fa7e0d4dcc322e70caeb65b54d/jetified-gpuimage-plus-2.6.3/AndroidManifest.xml" />
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/d678f5fa7e0d4dcc322e70caeb65b54d/jetified-gpuimage-plus-2.6.3/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/modules-2/files-2.1/org.wysaid/gpuimage-plus/2.6.3/2827d54058cd266a55c54f4dcfcd1cfb959756f1/gpuimage-plus-2.6.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/modules-2/files-2.1/org.wysaid/gpuimage-plus/2.6.3/bc86fee23d2efef1a6610411f5e7a7915a408372/gpuimage-plus-2.6.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

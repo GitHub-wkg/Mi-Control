@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-measurement-sdk-api:18.0.3@aar">
+    <CLASSES>
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/28b0fdf2a36b088d47de6f2b4884bdbc/jetified-play-services-measurement-sdk-api-18.0.3/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/28b0fdf2a36b088d47de6f2b4884bdbc/jetified-play-services-measurement-sdk-api-18.0.3/res" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/28b0fdf2a36b088d47de6f2b4884bdbc/jetified-play-services-measurement-sdk-api-18.0.3/AndroidManifest.xml" />
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/492063805cdbb282dfbd501e1245237f/jetified-play-services-measurement-sdk-api-18.0.3/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/492063805cdbb282dfbd501e1245237f/jetified-play-services-measurement-sdk-api-18.0.3/res" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/492063805cdbb282dfbd501e1245237f/jetified-play-services-measurement-sdk-api-18.0.3/AndroidManifest.xml" />
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/8f7675ca890431bd2b5a62bd2f8959bb/jetified-play-services-measurement-sdk-api-18.0.3/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/8f7675ca890431bd2b5a62bd2f8959bb/jetified-play-services-measurement-sdk-api-18.0.3/res" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/8f7675ca890431bd2b5a62bd2f8959bb/jetified-play-services-measurement-sdk-api-18.0.3/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/modules-2/files-2.1/com.google.android.gms/play-services-measurement-sdk-api/18.0.3/c0d58b8efa926b2c607984c54fb3d274490badd1/play-services-measurement-sdk-api-18.0.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

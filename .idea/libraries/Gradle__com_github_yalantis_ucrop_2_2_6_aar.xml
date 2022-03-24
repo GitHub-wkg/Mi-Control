@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.yalantis:ucrop:2.2.6@aar">
+    <ANNOTATIONS>
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/c7688ede17c5652cab0f9e24cf2649b0/jetified-ucrop-2.2.6/annotations.zip!/" />
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/4f64fbc6c90ad95f391cdef564de733f/jetified-ucrop-2.2.6/annotations.zip!/" />
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/281baf3433baf4652b3ced30f8e28ff8/jetified-ucrop-2.2.6/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/c7688ede17c5652cab0f9e24cf2649b0/jetified-ucrop-2.2.6/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/c7688ede17c5652cab0f9e24cf2649b0/jetified-ucrop-2.2.6/res" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/c7688ede17c5652cab0f9e24cf2649b0/jetified-ucrop-2.2.6/AndroidManifest.xml" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/4f64fbc6c90ad95f391cdef564de733f/jetified-ucrop-2.2.6/res" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/4f64fbc6c90ad95f391cdef564de733f/jetified-ucrop-2.2.6/AndroidManifest.xml" />
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/4f64fbc6c90ad95f391cdef564de733f/jetified-ucrop-2.2.6/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/281baf3433baf4652b3ced30f8e28ff8/jetified-ucrop-2.2.6/AndroidManifest.xml" />
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/281baf3433baf4652b3ced30f8e28ff8/jetified-ucrop-2.2.6/jars/classes.jar!/" />
+      <root url="file://D:/WindowLaucher/windows-launcher/.gradle/caches/transforms-2/files-2.1/281baf3433baf4652b3ced30f8e28ff8/jetified-ucrop-2.2.6/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/modules-2/files-2.1/com.github.yalantis/ucrop/2.2.6/463960c5eeefff73517b978228d207911146c162/ucrop-2.2.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/WindowLaucher/windows-launcher/.gradle/caches/modules-2/files-2.1/com.github.yalantis/ucrop/2.2.6/3a2db8c65da9d26feb14480a6f5e47419637611/ucrop-2.2.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "79783504012",
+    "project_id": "control-center-1",
+    "storage_bucket": "control-center-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79783504012:android:0843ed44afec8bbd8573a9",
+        "android_client_info": {
+          "package_name": "com.ezstudio.controlcenter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79783504012-opq4ep1shavltukvjnfmhn3u0s1vi3uo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhSb7K53mQQWvZ3dlDRi7kdAWFeirLc3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79783504012-opq4ep1shavltukvjnfmhn3u0s1vi3uo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
