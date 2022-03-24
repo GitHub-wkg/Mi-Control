@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    tools:background="@color/black">
+
+    <LinearLayout
+        android:id="@+id/icons_fist_line"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="4">
+
+        <LinearLayout
+            android:id="@+id/layout_icon_mute"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/_7sdp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <androidx.appcompat.widget.AppCompatImageView
+                android:id="@+id/ic_mute"
+                android:layout_width="@dimen/_40sdp"
+                android:layout_height="@dimen/_40sdp"
+                android:layout_gravity="center"
+                android:background="@drawable/item_background"
+                android:padding="@dimen/_10sdp"
+                app:srcCompat="@drawable/ic_mute" />
+
+            <TextView
+                android:id="@+id/txt_mute"
+                android:layout_width="@dimen/_50sdp"
+                android:layout_height="@dimen/_14sdp"
+                android:ellipsize="marquee"
+                android:gravity="center"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:singleLine="true"
+                android:text="@string/mute"
+                android:focusable="true"
+                android:focusableInTouchMode="true"
+                android:scrollHorizontally="true"
+                android:textColor="@color/color_1AD1FF"
+                android:textSize="@dimen/_10sdp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/layout_icon_battery_saver"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/_7sdp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <androidx.appcompat.widget.AppCompatImageView
+                android:id="@+id/ic_battery_saver"
+                android:layout_width="@dimen/_40sdp"
+                android:layout_height="@dimen/_40sdp"
+                android:layout_gravity="center"
+                android:background="@drawable/item_background"
+                android:padding="@dimen/_10sdp"
+                app:srcCompat="@drawable/ic_battery" />
+
+            <TextView
+                android:id="@+id/txt_battery_saver"
+                android:layout_width="@dimen/_50sdp"
+                android:layout_height="@dimen/_14sdp"
+                android:ellipsize="marquee"
+                android:gravity="center"
+                android:focusable="true"
+                android:focusableInTouchMode="true"
+                android:scrollHorizontally="true"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:singleLine="true"
+                android:text="@string/battery_saver"
+                android:textColor="@color/color_1AD1FF"
+                android:textSize="@dimen/_10sdp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/layout_icon_airplane_mode"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/_7sdp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <androidx.appcompat.widget.AppCompatImageView
+                android:id="@+id/ic_airplane_mode"
+                android:layout_width="@dimen/_40sdp"
+                android:layout_height="@dimen/_40sdp"
+                android:layout_gravity="center"
+                android:background="@drawable/item_background"
+                android:padding="@dimen/_10sdp"
+                app:srcCompat="@drawable/ic_flight" />
+
+            <TextView
+                android:id="@+id/txt_airplane_mode"
+                android:layout_width="@dimen/_50sdp"
+                android:layout_height="@dimen/_14sdp"
+                android:ellipsize="marquee"
+                android:focusable="true"
+                android:focusableInTouchMode="true"
+                android:scrollHorizontally="true"
+                android:singleLine="true"
+                android:gravity="center"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:text="@string/airplane_mode"
+                android:textColor="@color/color_1AD1FF"
+                android:textSize="@dimen/_10sdp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/layout_icon_do_not_disturb"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/_7sdp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <androidx.appcompat.widget.AppCompatImageView
+                android:id="@+id/ic_do_not_disturb"
+                android:layout_width="@dimen/_40sdp"
+                android:layout_height="@dimen/_40sdp"
+                android:layout_gravity="center"
+                android:background="@drawable/item_background"
+                android:padding="@dimen/_10sdp"
+                app:srcCompat="@drawable/ic_moon" />
+
+            <TextView
+                android:id="@+id/txt_do_not_disturb"
+                android:layout_width="@dimen/_50sdp"
+                android:layout_height="@dimen/_14sdp"
+                android:ellipsize="marquee"
+                android:gravity="center"
+                android:focusable="true"
+                android:focusableInTouchMode="true"
+                android:scrollHorizontally="true"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:singleLine="true"
+                android:text="@string/do_not_turb"
+                android:textColor="@color/color_1AD1FF"
+                android:textSize="@dimen/_10sdp" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+</LinearLayout>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Control Center</string>
+    <string name="pref_ringtone_silent">Silent</string>
+    <string name="mobile_data">Mobile Data</string>
+    <string name="on">On</string>
+    <string name="do_not_turb">Do not turb</string>
+    <string name="airplane_mode">Airplane mode</string>
+    <string name="battery_saver">Battery saver</string>
+    <string name="mute">Mute</string>
+    <string name="auto_rotate">Auto-rotate</string>
+    <string name="night_light">Night Light</string>
+    <string name="dark_theme">Dark theme</string>
+    <string name="hotspot">Hotspot</string>
+    <string name="no_sim_card">No Sim card !</string>
+    <string name="wi_fi">Wi-Fi</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="flashlight">Flashlight</string>
+    <string name="control_center">Control Center</string>
+</resources>

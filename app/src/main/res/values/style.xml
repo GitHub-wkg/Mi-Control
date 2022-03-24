@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ColorCardViewMobileData" >
+        <item name="backgroundColor">@color/color_BF2CAF67</item>
+    </style>
+    <style name="ColorCardViewWifi" >
+        <item name="backgroundColor">@color/color_2C61CC</item>
+    </style>
+    <style name="Animation_Window" >
+        <item name="android:windowEnterAnimation">@anim/window_enter</item>
+    </style>
+</resources>

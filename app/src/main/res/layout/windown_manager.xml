@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/layout_window"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/img_background_color"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/purple_200" />
+
+<ScrollView
+    android:id="@+id/scrollViewContent"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/layout_content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginStart="@dimen/_12sdp"
+        android:layout_marginEnd="@dimen/_12sdp">
+
+        <TextView
+            android:id="@+id/view_top_manager"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            app:layout_constraintHeight_percent="0.05"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <com.ezstudio.controlcenter.widget.ViewStatus
+            android:id="@+id/layout_task_bar"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:gravity="center_vertical"
+            app:layout_constraintHeight_percent="0.05"
+            app:layout_constraintTop_toBottomOf="@id/view_top_manager" />
+
+        <com.ezstudio.controlcenter.widget.ViewControlCenter
+            android:id="@+id/control_center"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:gravity="center_vertical"
+            app:layout_constraintHeight_percent="0.09"
+            app:layout_constraintTop_toBottomOf="@+id/layout_task_bar" />
+
+        <com.ezstudio.controlcenter.widget.ViewButton
+            android:id="@+id/layout_btn_fist"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:layout_constraintTop_toBottomOf="@+id/control_center" />
+        <com.ezstudio.controlcenter.widget.ViewButtonSecondsLine
+            android:id="@+id/layout_btn_seconds_line"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:layout_constraintTop_toBottomOf="@+id/layout_btn_fist" />
+
+        <com.ezstudio.controlcenter.widget.ViewIconControl
+            android:id="@+id/ic_controls"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:layout_constraintTop_toBottomOf="@+id/layout_btn_seconds_line" />
+        <com.ezstudio.controlcenter.widget.ViewIconSecondsLine
+            android:id="@+id/ic_controls_seconds_line"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:layout_constraintTop_toBottomOf="@+id/ic_controls" />
+
+        <com.ezstudio.controlcenter.widget.ViewControlCenterHide
+            android:id="@+id/layout_icon_center_hide"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:alpha="0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/ic_controls_seconds_line" />
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/layout_light_screen"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/ic_controls_seconds_line"
+            app:layout_constraintWidth_percent="0.75">
+
+            <LinearLayout
+                android:id="@+id/layout_ic_a"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_8sdp"
+                android:gravity="center"
+                android:orientation="horizontal"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintWidth_percent="0.25">
+
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:id="@+id/ic_a"
+                    android:layout_width="@dimen/_40sdp"
+                    android:layout_height="@dimen/_40sdp"
+                    android:layout_gravity="center"
+                    android:layout_marginStart="@dimen/_15sdp"
+                    android:layout_marginEnd="@dimen/_15sdp"
+                    android:background="@drawable/item_background"
+                    android:padding="@dimen/_10sdp"
+                    app:srcCompat="@drawable/ic_a" />
+            </LinearLayout>
+
+
+            <abak.tr.com.boxedverticalseekbar.BoxedVertical
+                android:id="@+id/boxed_vertical"
+                android:layout_width="55dp"
+                android:layout_height="250dp"
+                android:layout_gravity="center"
+                android:rotation="90"
+                app:backgroundColor="@color/color_background"
+                app:cornerRadius="40dp"
+                app:defaultImage="@drawable/brightness"
+                app:defaultValue="50"
+                app:imageEnabled="true"
+                app:layout_constraintBottom_toBottomOf="@+id/layout_ic_a"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@+id/layout_ic_a"
+                app:layout_constraintTop_toTopOf="@id/layout_ic_a"
+                app:max="100"
+                app:maxImage="@drawable/brightness"
+                app:minImage="@drawable/brightness"
+                app:progressColor="@color/color_progress"
+                app:step="5"
+                app:touchDisabled="true" />
+
+            <androidx.appcompat.widget.AppCompatImageView
+                android:id="@+id/last_line"
+                android:paddingTop="@dimen/_15sdp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:layout_constraintBottom_toBottomOf="@+id/layout_light_screen"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="@+id/layout_light_screen"
+                app:srcCompat="@drawable/ic_line" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>
+
